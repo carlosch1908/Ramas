@@ -18,6 +18,9 @@ public class Ramas {
         // TODO code application logic here
         
         System.out.println("version 2.0");
+        System.out.println("estoy haciendo cambios");
+        int a=20;
+        System.out.println(a);
     }
     
 }
